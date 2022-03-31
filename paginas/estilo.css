@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F3F9F7;
+}
+
+.titulo{
+    background-color: #3F0042;
+    color: #F3F9F7;
+    font-size: 60px;
+    height: 100px;
+    text-align: center;
+}
+
+.footer{
+    background-color: #3F0042;
+}
+
+.mapa{
+    margin-left: 83%;
+    height: 175px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    color: #9275BD;
+    background-color: #3F0042;
+    height: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    color: #9275BD;
+}
+
+.dire{
+    position: relative;
+    margin-left: 74%;
+    color: #9275BD;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.ubi{
+    position: relative;
+    padding-bottom: 10px;
+    margin-left: 72%;
+    color: #9275BD;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#formulario{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.RRSS{
+    padding-top: 20px;
+    margin-left: 20px;
+    color: #9275BD;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.redes{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.redesSociales{
+    color: #9275BD;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+h2{
+    color: #724779;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h3{
+    padding-left: 30px;
+}
+
+.nombre{
+    background-color: #3F0042;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    color: #F3F9F7;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+}
